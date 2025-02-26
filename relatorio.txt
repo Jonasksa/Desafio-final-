@@ -1,0 +1,39 @@
+Relatório de Transações
+==============================
+ampla energia e servicos s a: R$ 339.48
+claro: R$ 173.23
+pes e patas: R$ 169.91
+ifd50875767 charles: R$ 153.08
+uber: R$ 134.35
+o boticario  parcela 22: R$ 126.10
+daniela cristina sodre eduardo: R$ 124.90
+kfc niteroi plaza: R$ 95.40
+banrio  parcela 23: R$ 86.66
+supermercado real nite: R$ 78.47
+swmtopcomercio: R$ 70.99
+midway: R$ 68.26
+ponto certo claro  parcela 14: R$ 56.77
+postobarreiras: R$ 50.00
+domazalanches: R$ 50.00
+mercadinho sta barbara: R$ 49.87
+netflix: R$ 44.90
+mc donalds: R$ 41.40
+jonas kasakewitch: R$ 41.20
+atacadao posto treze: R$ 39.99
+wei lirio bazar: R$ 30.00
+carrefour pst 304 pma: R$ 29.95
+dm spotify: R$ 27.90
+petlove saudpetlove s: R$ 26.91
+drogarias cristal: R$ 25.65
+applecombill: R$ 24.70
+lojamarina: R$ 22.00
+americanas: R$ 19.98
+padariamaissa: R$ 11.00
+cereais tribobo: R$ 10.60
+ludmilla rocha vasconcelos: R$ 8.36
+arena ze garoto: R$ 8.00
+mp lourdestortas: R$ 8.00
+padaria mais sabor: R$ 4.00
+subway: R$ 3.00
+==============================
+Total: R$ 2255.01
